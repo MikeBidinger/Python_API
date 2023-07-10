@@ -1,2 +1,6 @@
 # Python_API
-Python API functions
+
+Python API functions:
+
+- GitHub API
+- Google Sheets API
